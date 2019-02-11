@@ -1,0 +1,54 @@
+header
+{
+  background-color: black;
+  color: white;
+  font-family: ;
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+}
+img{
+  width: 10%;
+}
+.card{
+  color: #50d07d;
+  background-color:#d02552;
+  width: 50%;
+  border-radius: 2px 2px 2px ;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
+}
+.maindiv{
+  display: flex;
+  justify-content: space-between;
+}
+.left{
+  text-align: center;
+  width: 30%;
+height: 100%;
+  background-color:  pink;
+  margin: 1%;
+  border-radius: 2px 2px 2px ;
+  box-shadow: 2px 2px 2px black;
+padding: 1%;
+}
+.right{
+  border-radius: 2px 2px 2px ;
+  box-shadow: 2px 2px 2px black;
+background-color: black;
+  width: 70%;
+  height: auto;
+  text-align: left;
+  margin :1%;
+  padding: 1%;
+  color: white;
+  font-size: 20px;
+}
+#hd{
+  color: black;
+  background-color:lightpink;
+
+  text-align: left;
+}
