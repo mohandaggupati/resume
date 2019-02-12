@@ -9,7 +9,7 @@ header
 }
 img{
   width: 30%;
-  border-radius: 100%;
+  border-radius: 70%;
 
 }
 .card{
@@ -26,45 +26,45 @@ width: 50;
   display: flex;
   justify-content: space-between;
 }
-.left{
+.leftdiv{
   text-align: center;
-  width: 30%;
+  width: 25%;
 height: 100%;
-color: white;
-  background-color:  black;
+color: black;
+  background-color:  lightgreen;
   margin: 1%;
   border-radius: 2px 2px 2px ;
   box-shadow: 2px 2px 2px black;
 padding: 1%;
 }
-.right{
+.rightdiv{
   border-radius: 2px 2px 2px ;
   box-shadow: 2px 2px 2px black;
-background-color: black;
-  width: 70%;
+background-color:lightgreen;
+  width: 75%;
   height: auto;
   text-align: left;
-  margin :1%;
+  margin-left :0%;
   padding: 1%;
-  color: white;
+  color: #d02552;
   font-size: 20px;
 }
 #hd{
-  color:#d02552 ;
+  color:black;
   background-color:#50d07d;
-
+border-radius: 10px;
   text-align: left;
 }
 
 /*/*mobile view */
 @media screen and (min-width:320px)and (max-width:520px)
 {
- .maindiv{
+ .maindiv , .main{
 
   display : flex;
   flex-wrap:wrap;
 }
-.card{
+.card,.leftdiv,.rightdiv{
   width:90%;
 }
 
@@ -73,12 +73,12 @@ background-color: black;
 
 @media screen and (min-width:481px)and (max-width:820px)
 {
- .maindiv{
+ .maindiv,.main{
 
   display : flex;
   flex-wrap:wrap;
 }
-.card{
+.card,.leftdiv,.rightdiv{
   width:45%;
   margin-left: auto;
   margin-right: auto;
