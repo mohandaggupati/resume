@@ -53,3 +53,17 @@ background-color: black;
 
   text-align: left;
 }
+
+/*mobile view */
+@@media screen and (min-width:320px)and (max-width:480px)
+{
+ .maindiv{
+
+  display : flex;
+  flex-wrap:wrap;
+}
+.card{
+  width:90%;
+}
+
+}
