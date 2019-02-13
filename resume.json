@@ -1,0 +1,41 @@
+{
+  "profile":{
+    "name":"mohan",
+    "image":"images/logo2.jpg",
+    "role":"CSE student",
+    "phoneno":"8886894395",
+    "gmail":"mohansai1117@gmail.com",
+    "carrer":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company. Seeking an entry-level position to begin my career in a high-level professional environment. To secure employment with a reputable company, where I can utilize my skills and business studies background to the maximum. Seeking a challenging career with an MNC."
+
+  },
+"EDUCATION":[
+  {
+"degree":"B.TECH",
+"COLLEGE":"QIS",
+"branch":"CSE",
+"marks":"78%",
+"enddate":"06/06/2020"
+},
+{
+"degree":"inter",
+"COLLEGE":"UMRJC",
+"branch":"MPC",
+"marks":"70%",
+"enddate":"06/04/2016"
+},
+{
+"degree":"SSC",
+"COLLEGE":"NARAYANA HIGH SCHOOL",
+"branch":"ENGLISH",
+"marks":"78%",
+"enddate":"15/04/2014"
+}
+
+
+],
+"SKILLS":{
+  "os":"windows10,windows7,windows8.1",
+  "programmingskills":"HTML5,CSS3,C,C++,JAVA,DBMS"
+}
+
+}

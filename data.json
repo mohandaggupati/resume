@@ -1,8 +1,33 @@
 {
-  "profile":{
+  "profile":[{
   "name":"Mohan",
   "role":"CSE student",
   "phoneno":  	"8886894395",
   "gmail":"mohansai1117@gmail.com"
+},
+{
+"name":"Mohan Daggupati",
+"role":"CSE student",
+"phoneno":  	"8886894395",
+"gmail":"mohand1117@gmail.com"
+},
+{
+"name":"MOHAN",
+"role":"CSE student",
+"phoneno":  	"8886894395",
+"gmail":"mohan1117@gmail.com"
+},
+{
+"name":"arjun",
+"role":"CSE student",
+"phoneno":  	"8886894395",
+"gmail":"arjun1117@gmail.com"
+},
+{
+"name":"krishna",
+"role":"CSE student",
+"phoneno":  	"8886894395",
+"gmail":"krishna1117@gmail.com"
 }
+]
 }
